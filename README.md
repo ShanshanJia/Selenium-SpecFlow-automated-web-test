@@ -52,4 +52,4 @@ In Test Scenario 1, if we try to submit the application without accepting the te
 5 Selenium page object model support
 	* Add private fields decorated with \[FindsBy(...)]
 	* PageFactory.InitElements(\_driver, this)
-  * Reference fields from methods and properties
+	* Reference fields from methods and properties
